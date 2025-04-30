@@ -7,7 +7,7 @@ This repository contains 5 individual machine learning projects, each solving a 
 
 ## 📂 Projects Overview
 
-### 🚀 TASK 1: Movie Genre Classification  
+### 🚀 TASK 1: Movie Genre Classification (mrp.py)  
 **Goal:** Predict the genre of a movie based on its plot summary.  
 **Techniques:**  
 - Text preprocessing, TF-IDF  
@@ -16,18 +16,17 @@ This repository contains 5 individual machine learning projects, each solving a 
 
 ---
 
-### 💳 TASK 2: Credit Card Fraud Detection  
+### 💳 TASK 2: Credit Card Fraud Detection  (Fraud_detectoin.py)
 **Goal:** Classify credit card transactions as fraudulent or legitimate.  
 **Techniques:**  
 - Data preprocessing, feature scaling  
 - Models: Logistic Regression, Decision Tree, Random Forest  
 **Libraries:** Scikit-learn, Pandas, Matplotlib  
-**Dataset:** [Click Here to Download](#)  
-📁 Folder: `credit_card_fraud_detection/`
+
 
 ---
 
-### 📉 TASK 3: Customer Churn Prediction  
+### 📉 TASK 3: Customer Churn Prediction (cp.py) 
 **Goal:** Predict customer churn in a subscription-based service.  
 **Techniques:**  
 - Feature engineering (usage behavior, demographics)  
@@ -36,7 +35,7 @@ This repository contains 5 individual machine learning projects, each solving a 
 
 ---
 
-### 📩 TASK 4: Spam SMS Detection  
+### 📩 TASK 4: Spam SMS Detection  (smp.py)
 **Goal:** Classify SMS messages as spam or legitimate.  
 **Techniques:**  
 - NLP with TF-IDF  
@@ -46,7 +45,7 @@ This repository contains 5 individual machine learning projects, each solving a 
 
 ---
 
-### ✍️ TASK 5: Handwritten Text Generation  
+### ✍️ TASK 5: Handwritten Text Generation(ht.py)  
 **Goal:** Generate handwritten-like text using a character-level RNN.  
 **Techniques:**  
 - Recurrent Neural Networks (RNN)  
